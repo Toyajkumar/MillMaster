@@ -1,0 +1,6 @@
+{
+  "name": "Toyaj MillMaster",
+  "description": "Industrial reel optimizer and deckle cutter for paper mills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
